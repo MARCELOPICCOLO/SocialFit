@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7qBYI5L9bq4sztvVWfSYeyNakaOQAJDGM+TD3AgdwmjAib3iUX1Ch/qk7yvYVqBO6xscy+O9Wxhx0hksmrTQww==",
+  "success": true,
+  "projectFilePath": "D:\\FATEC\\SocialFit\\SocialFit\\SocialFit\\SocialFit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piccolo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
